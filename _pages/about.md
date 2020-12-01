@@ -16,7 +16,7 @@ Recent Updates
 ======
 <b>06.2020</b> : Accepted a full-time position as a Data Analyst at PeopleShores PBC. 
 
-<b>02.2020</b> : Started working as a Research Assistant to Dr. Ruihong Hunag at Texas A&M University as a part of Natural Language Processing Group. 
+<b>02.2020</b> : Started working as a Research Assistant to Dr. Ruihong Huang at Texas A&M University as a part of Natural Language Processing Group. 
 
 <b>12.2019</b> : Earned Bachelor's Degree from The University of Mississippi.
 
