@@ -20,5 +20,5 @@ Recent Updates
 
 <b>12.2019</b> : Earned Bachelor's Degree from The University of Mississippi.
 
-<b>05.2019</b> : Our paper "Towards Automated Sexual Harassment Report Tracking" got accepted at ICWSM 2020. 
+<b>05.2019</b> : Our paper entitled "Towards Automated Sexual Harassment Report Tracking" got accepted at ICWSM 2020. 
 
