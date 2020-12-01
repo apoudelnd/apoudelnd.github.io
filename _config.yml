@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amrit Poudel / apoudel.github.io"
+title                    : "Amrit Poudel"
 title_separator          : "-"
 name                     : &name "Amrit Poudel"
 description              : &description "Data Analyst at PeopleShores PBC | NLP Enthusiast"
@@ -84,10 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "Data Analyst at PeopleShores PBC || NLP Enthusiast"
   location         : "Clarksdale, Mississippi"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "amritpoudel101@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
