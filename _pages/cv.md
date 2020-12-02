@@ -25,7 +25,7 @@ Work experience
 
 * May 2018 - Dec 2019: Undergraduate Research Assistant
   * Data Exploration and Research Laboratory, University, MS 
-  * Mentor: <a href= "https://ischool.umd.edu/about/directory/naeemul-hassan">=Prof. Naeemul Hassan</a>
+  * Mentor: <a href= "https://ischool.umd.edu/about/directory/naeemul-hassan">Prof. Naeemul Hassan</a>
 
 * Feb 2017- May 2019: Information Technology Intern
   * The University of Mississippi Foundation, University, MS
