@@ -14,6 +14,8 @@ I am a Data Anlayst at PeopleShores PBC. I earned my Bachelor's Degree from the 
 
 Recent Updates
 ======
+
+
 <b>06.2020</b> : Accepted a full-time position as a Data Analyst at <a href= "https://peopleshores.com/">PeopleShores PBC</a>. 
 
 <b>02.2020</b> : Started working as a Research Assistant to <a href= "https://people.engr.tamu.edu/huangrh/index.html">Prof. Ruihong Huang</a> at Texas A&M University as a part of <a href= "http://nlp.cs.tamu.edu/index.html">Natural Language Processing Group</a>. 
@@ -37,5 +39,5 @@ Recent Updates
 <b>01.2018</b> : Recipient of <a href = "https://math.olemiss.edu/undergraduate-awards-recipients/">The John Roger Moore III Scholarship (Department of Mathematics, 2018)</a>
 
 <b>12.2017</b> : Represented the University at <a href= "https://www.maa.org/math-competitions/putnam-competition">The Willuiam Lowell Putnam Mathematical Competition</a>.
-
+s
 <b>01.2016</b> : Recipient of Academic Excellence Award 2016-2020, The University of Mississippi. 
