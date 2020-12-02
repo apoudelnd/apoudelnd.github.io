@@ -7,11 +7,5 @@ main:
   - title: "Publications"
     url: /publications/ 
     
-  - title: "Experiences"
-    url: /portfolio/
-        
-  - title: "Thoughts"
-    url: /year-archive/
-    
   - title: "CV"
     url: /cv/
