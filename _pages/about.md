@@ -26,7 +26,7 @@ Recent Updates
 
 <b>06.2019</b> : Semi-Finalist of <a href= "https://olemisscie.com/programs/gillespie-business-plan/">Gillespie Business Plan Competition, 2019</a>. 
 
-<b>05.2019</b> : Our paper entitled <a href= "https://ojs.aaai.org//index.php/ICWSM/article/view/7296">"Towards Automated Sexual Harassment Report Tracking"</a> got accepted at ICWSM 2020. 
+<b>05.2019</b> : Our paper entitled <a href= "https://ojs.aaai.org//index.php/ICWSM/article/view/7296">"Towards Automated Sexual Harassment Report Tracking"</a> got accepted at <a href= "https://www.icwsm.org/2020/">ICWSM 2020</a>. 
 
 <b>04.2019</b> : Presented a poster at <a href= "https://sites01.lsu.edu/wp/discover/discover-day-2019/#:~:text=On%20Tuesday%2C%20April%209th%2C%202019,in%20the%20LSU%20student%20union">LSU Discover Day 2019 (Undergraduate Research)</a> entitled "Live-Monitoring Sexual Harassment Reports in Social Networks". 
 
