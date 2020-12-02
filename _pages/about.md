@@ -36,6 +36,6 @@ Recent Updates
 
 <b>01.2018</b> : Recipient of <a href = "https://math.olemiss.edu/undergraduate-awards-recipients/">The John Roger Moore III Scholarship (Department of Mathematics, 2018)</a>
 
-<b>12.2017</b> : Represented the University at <a href= https://www.maa.org/math-competitions/putnam-competition>The Willuiam Lowell Putnam Mathematical Competition</a>.
+<b>12.2017</b> : Represented the University at <a href= "https://www.maa.org/math-competitions/putnam-competition">The Willuiam Lowell Putnam Mathematical Competition</a>.
 
 <b>01.2016</b> : Recipient of Academic Excellence Award 2016-2020, The University of Mississippi. 
