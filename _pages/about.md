@@ -22,10 +22,20 @@ Recent Updates
 
 <b>07.2019</b> : Recipient of <a href= "https://mclean.olemiss.edu/2018-2020/" >CEED Innovation Scholar</a> with McLean Institute for Public Service and Community Engagement.
 
+<b>06.2019</b> : Semi-Finalist of < a href= https://olemisscie.com/programs/gillespie-business-plan/>Gillespie Business Plan Competition, 2019</a>. 
+
 <b>05.2019</b> : Our paper entitled <a href= "https://ojs.aaai.org//index.php/ICWSM/article/view/7296">"Towards Automated Sexual Harassment Report Tracking"</a> got accepted at ICWSM 2020. 
 
 <b>04.2019</b> : Presented a poster at <a href= "https://sites01.lsu.edu/wp/discover/discover-day-2019/#:~:text=On%20Tuesday%2C%20April%209th%2C%202019,in%20the%20LSU%20student%20union">LSU Discover Day 2019 (Undergraduate Research)</a> entitled "Live-Monitoring Sexual Harassment Reports in Social Networks". 
 
+<b>02.2019</b> : Secured a second position at <a href = https://olemisscie.com/programs/landshark-tank-pitch-competition/> Landshark Tank Pitch Competition, 2019</a> for customed food-delivery app.
+
 <b>12.2018</b> : Took a trip back home to Nepal.  
 
-<b>07.2918</b> : Recipient of <a href= "https://news.olemiss.edu/undergraduates-conducting-data-science-research-faculty-mentors/"> Undergradute Research: Track-1 Summer Research Fellowship Award</a> under the mentorship of <a href= "https://ischool.umd.edu/about/directory/naeemul-hassan">Prof. Naeemul Hassan</a>. 
+<b>07.2018</b> : Recipient of <a href= "https://news.olemiss.edu/undergraduates-conducting-data-science-research-faculty-mentors/"> Undergradute Research: Track-1 Summer Research Fellowship Award</a> under the mentorship of <a href= "https://ischool.umd.edu/about/directory/naeemul-hassan">Prof. Naeemul Hassan</a>. 
+
+<b>01.2018</b> : Recipient of <a href = "https://math.olemiss.edu/undergraduate-awards-recipients/">The John Roger Moore III Scholarship (Department of Mathematics, 2018)</a>
+
+<b>12.2017</b> : Represented the University at <a href= https://www.maa.org/math-competitions/putnam-competition>The Willuiam Lowell Putnam Mathematical Competition</a>.
+
+<b>01.2016</b> : Recipient of Academic Excellence Award 2016-2020, The University of Mississippi. 
