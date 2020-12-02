@@ -22,6 +22,8 @@ Recent Updates
 
 <b>12.2019</b> : Earned Bachelor's Degree from The University of Mississippi.
 
+<b>12.2019</b> : Sucessfully defended senior project under the mentorship of <a href="https://engineering.olemiss.edu/people-yixin-chen/">Prof. Yixin Chen</a> on "Prediction of Coronary Artery Disease Using ML"
+
 <b>07.2019</b> : Recipient of <a href= "https://mclean.olemiss.edu/2018-2020/" >CEED Innovation Scholar</a> with McLean Institute for Public Service and Community Engagement.
 
 <b>06.2019</b> : Semi-Finalist of <a href= "https://olemisscie.com/programs/gillespie-business-plan/">Gillespie Business Plan Competition, 2019</a>. 
@@ -39,5 +41,5 @@ Recent Updates
 <b>01.2018</b> : Recipient of <a href = "https://math.olemiss.edu/undergraduate-awards-recipients/">The John Roger Moore III Scholarship (Department of Mathematics, 2018)</a>
 
 <b>12.2017</b> : Represented the University at <a href= "https://www.maa.org/math-competitions/putnam-competition">The Willuiam Lowell Putnam Mathematical Competition</a>.
-s
+
 <b>01.2016</b> : Recipient of Academic Excellence Award 2016-2020, The University of Mississippi. 
