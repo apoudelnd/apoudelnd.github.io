@@ -22,7 +22,7 @@ Recent Updates
 
 <b>07.2019</b> : Recipient of <a href= "https://mclean.olemiss.edu/2018-2020/" >CEED Innovation Scholar</a> with McLean Institute for Public Service and Community Engagement.
 
-<b>06.2019</b> : Semi-Finalist of < a href= "https://olemisscie.com/programs/gillespie-business-plan/">Gillespie Business Plan Competition, 2019</a>. 
+<b>06.2019</b> : Semi-Finalist of <a href= "https://olemisscie.com/programs/gillespie-business-plan/">Gillespie Business Plan Competition, 2019</a>. 
 
 <b>05.2019</b> : Our paper entitled <a href= "https://ojs.aaai.org//index.php/ICWSM/article/view/7296">"Towards Automated Sexual Harassment Report Tracking"</a> got accepted at ICWSM 2020. 
 
