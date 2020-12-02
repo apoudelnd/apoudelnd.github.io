@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, The University of Mississippi, 2019
+ * Minor: Mathematics
 
 Work experience
 ======
