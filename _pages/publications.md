@@ -8,4 +8,4 @@ author_profile: true
 
 
 * [Towards Automated Sexual Harassment Report Tracking](https://ojs.aaai.org//index.php/ICWSM/article/view/7296)<br>
-Naeemul Hassan, <strong>Amrit Poudel</strong>, et al. Vol. 14 (2020): Proceedings of the Fourteenth International AAAI Conference on Web and Social Media.
+Hassan, N., <b>Poudel, A.</b>, Hale, J., Hubacek, C., Huq, K. T., Karmaker Santu, S. K., & Ahmed, S. I. (2020). Towards Automated Sexual Violence Report Tracking. Proceedings of the International AAAI Conference on Web and Social Media, 14(1), 250-259.
