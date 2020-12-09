@@ -5,8 +5,7 @@ author_profile: true
 ---
 
 
-"Predicting the future isn't magic, it's Artificial Intelligence " 
-- Dave Waters
+
 "Predicting the future isn't magic, it's Artificial Intelligence "  - <b> Dave Waters </b>
 
 
