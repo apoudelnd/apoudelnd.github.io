@@ -13,5 +13,5 @@ Hassan, N., <b>Poudel, A.</b>, Hale, J., Hubacek, C., Huq, K. T., Karmaker Santu
 
 Presentation
 ======
-* [<b>Presenter</b>, Poster titled Live-monitoring Sexual Harassment Reports in Social Networks](LSU Research DAY 2019.pdf)
-<a href=https://sites01.lsu.edu/wp/discover/files/2019/04/Discover-Day-Program-2019-online.pdf> LSU Discover Day 2019</a>, Baton Rogue, Louisiana
+* [<b>Presenter</b>, Poster titled Live-monitoring Sexual Harassment Reports in Social Networks](https://apoudel1021.github.io/files/LSU%20Research%20DAY%202019.pdf)<br>
+<a href= "https://sites01.lsu.edu/wp/discover/files/2019/04/Discover-Day-Program-2019-online.pdf"> LSU Discover Day 2019</a>, Baton Rogue, Louisiana
