@@ -9,7 +9,7 @@ redirect_from:
 
 Hotty Toddy! 
 
-I am a second year Ph.D. student at the University of Notre Dame working under the supervison of <a href= "https://engineering.nd.edu/faculty/jane-cleland-huang/">Professor Jane Cleland Huang</a>. My primary research interests include automating manual and tedious taks in Software Engineering domain such as requirements design satisfaction, trace retrieval, and link prediction using advanced NLP techniques. Before joining Notre Dame, I worked as a Data Analyst/Instructor in the Mississippi Delta (Clarksdale) with a primary goal to help the underprivilege community join today's workforce.
+I am a second year Ph.D. student at the University of Notre Dame working under the supervison of <a href= "https://engineering.nd.edu/faculty/jane-cleland-huang/">Professor Jane Cleland Huang</a>. My primary research interests include automating manual and tedious taks in Software Engineering domain such as requirements design satisfaction, trace retrieval, and link prediction using advanced NLP techniques. 
 
 I earned my Bachelor's Degree from the Department of Computer and Information Science at <a href="https://www.olemiss.edu/"> The University of Mississippi</a> on December 2019.
 
@@ -21,11 +21,11 @@ Recent Updates
 
 <b>06.2020</b> : Accepted a full-time position as a Data Analyst at <a href= "https://peopleshores.com/">PeopleShores PBC</a>. 
 
-<b>02.2020</b> : Started working as a Research Assistant to <a href= "https://people.engr.tamu.edu/huangrh/index.html">Prof. Ruihong Huang</a> at Texas A&M University as a part of <a href= "http://nlp.cs.tamu.edu/index.html">Natural Language Processing Group</a>. 
+<b>02.2020</b> : Started working as a Research Assistant to <a href= "https://people.engr.tamu.edu/huangrh/index.html">Professor Ruihong Huang</a> at Texas A&M University as a part of <a href= "http://nlp.cs.tamu.edu/index.html">Natural Language Processing Group</a>. 
 
 <b>12.2019</b> : Earned Bachelor's Degree from The University of Mississippi.
 
-<b>12.2019</b> : Sucessfully defended senior project under the mentorship of <a href="https://engineering.olemiss.edu/people-yixin-chen/">Prof. Yixin Chen</a> on "Prediction of Coronary Artery Disease Using ML"
+<b>12.2019</b> : Sucessfully defended senior project under the mentorship of <a href="https://engineering.olemiss.edu/people-yixin-chen/">Prof. Yixin Chen</a> on "Prediction of Coronary Artery Disease Using Machine Learning"
 
 <b>07.2019</b> : Recipient of <a href= "https://mclean.olemiss.edu/2018-2020/" >CEED Innovation Scholar</a> with McLean Institute for Public Service and Community Engagement.
 

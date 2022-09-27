@@ -7,12 +7,19 @@ author_profile: true
 
 Education
 ======
-* B.S. in Computer Science, The University of Mississippi, 2019
-    * Minor: Mathematics
+* Ph.D. in Computer Science
+  * University of Notre Dame, 2021 - Present
+
+* B.S. in Computer Science (Minor: Mathematics)
+  * The University of Mississippi, 2016 - 2019
 
 Work experience
 ======
-* July 2020 - Present: Data Analyst
+* August 2021 - Present: Graduate Research Assistant
+  * University of Notre Dame, South Bend, IN
+  * Mentor: <a href = "https://engineering.nd.edu/faculty/jane-cleland-huang/">Prof. Jane Cleland Huang </a>
+
+* July 2020 - August 2021: Data Analyst
   * PeopleShores PBC, Clarksdale, MS 
 
 * Feb 2020- July 2020: Research Assistant
