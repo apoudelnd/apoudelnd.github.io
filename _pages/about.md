@@ -11,7 +11,7 @@ Namaste!
 
 I am a second year Ph.D. student at the <a href= "https://www.nd.edu/">University of Notre Dame</a> working under the supervison of <a href= "https://engineering.nd.edu/faculty/jane-cleland-huang/">Professor Jane Cleland Huang</a> on automating taks in Software Engineering domain such as requirements design satisfaction, trace retrieval, and link prediction using advanced NLP techniques. Moreover, my research interests are also in the field of computational journalism, misinfomration, and in understanding how humans curate information available in the internet. 
 
-Furthermore, I aim to establish the bridge between the overwhelming gap that exists between the underpriviliged communities and the prvileged while we speed the technological advancement. To that end, I worked in the Mississippi Delta after my undergraduate studies in empowering the underprviliged and marginalized communities through providing trainings/workshops involving basic technological skills in the field of data science - preparing them for the current workforce. 
+Furthermore, I aim to establish the bridge and fill the overwhelimg gap that exists between the underpriviliged and the prvileged while we speed the technological advancement. To that end, I worked in the Mississippi Delta after my undergraduate studies in empowering the underprviliged and marginalized communities through providing trainings/workshops involving basic technological skills in the field of data science - preparing them for the current workforce. 
 
 I earned my Bachelor's Degree from the Department of Computer and Information Science at <a href="https://www.olemiss.edu/"> The University of Mississippi</a> on December 2019.
 
