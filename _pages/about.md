@@ -9,9 +9,9 @@ redirect_from:
 
 Namaste!
 
-I am a second year Ph.D. student at the <a href= "https://www.nd.edu/">University of Notre Dame</a> working under the supervison of <a href= "https://engineering.nd.edu/faculty/jane-cleland-huang/">Professor Jane Cleland Huang</a> on automating taks in Software Engineering domain such as requirements design satisfaction, trace retrieval, and link prediction using advanced NLP techniques. Moreover, my research interests are also in the field of computational journalism, misinfomration, and in understanding how humans curate information available in the internet. 
+I am a third year Ph.D. student at the <a href= "https://www.nd.edu/">University of Notre Dame</a>, majoring in Computer Science with a minor in Peace Studies. I am working under the supervison of <a href= "https://engineering.nd.edu/faculty/tim-weninger/">Professor Tim Weninger</a> on Information Retreival, and Large Language Models. Moreover, my research interests are also in the field of computational journalism, misinfomration, and in understanding how humans curate information available in the internet. 
 
-Furthermore, I aim to establish the bridge and fill the overwhelimg gap that exists between the underpriviliged and the prvileged while we speed the technological advancement. To that end, I worked in the Mississippi Delta after my undergraduate studies in empowering the underprviliged and marginalized communities through providing trainings/workshops involving basic technological skills in the field of data science - preparing them for the current workforce. 
+Beyond academia, my commitment to bridging the gap between the underprivileged and the privileged has driven my actions. Following my undergraduate studies, I dedicated time to working in the Mississippi Delta, where I implemented initiatives to empower marginalized communities. Through workshops and training sessions, I equipped individuals with fundamental technological skills in data science, preparing them for the demands of the contemporary workforce.
 
 I earned my Bachelor's Degree from the Department of Computer and Information Science at <a href="https://www.olemiss.edu/"> The University of Mississippi</a> on December 2019.
 
