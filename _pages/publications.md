@@ -17,7 +17,7 @@ Lin, J., Poudel, A., Yu, W., Zeng, Q., Jiang, M., & Cleland-Huang, J. (2022). En
 Hassan, N., <b>Poudel, A.</b>, Hale, J., Hubacek, C., Huq, K. T., Karmaker Santu, S. K., & Ahmed, S. I. (2020). Towards Automated Sexual Violence Report Tracking. Proceedings of the International AAAI Conference on Web and Social Media, 14(1), 250-259.
 
 
-ON GEOPOLITICS
+Geopolitics
 ======
 
 * <a href= "https://myrepublica.nagariknetwork.com/news/democracy-capitalism-and-the-path-to-social-equilibrium/">Democracy, Capitalism, and the Path to Social Equilibrium, MyRepublica | 08.26.2023</a>
