@@ -17,13 +17,6 @@ Lin, J., Poudel, A., Yu, W., Zeng, Q., Jiang, M., & Cleland-Huang, J. (2022). En
 Hassan, N., <b>Poudel, A.</b>, Hale, J., Hubacek, C., Huq, K. T., Karmaker Santu, S. K., & Ahmed, S. I. (2020). Towards Automated Sexual Violence Report Tracking. Proceedings of the International AAAI Conference on Web and Social Media, 14(1), 250-259.
 
 
-Op-ed
-======
-
-* <a href= "https://myrepublica.nagariknetwork.com/news/democracy-capitalism-and-the-path-to-social-equilibrium/">Democracy, Capitalism, and the Path to Social Equilibrium, MyRepublica | 08.26.2023</a>
-* <a href= "https://myrepublica.nagariknetwork.com/news/china-s-peace-pivot-challenging-perceptions-and-assessing-its-impact/">China's Peace Pivot: Challenging Perceptions and Assessing Its Impact, MyRepublica | 05.19.2023</a>
-* <a href= "https://kathmandupost.com/columns/2023/04/20/rise-of-multipolarity-and-nepal">Nepal in a multipolar world, The Kathmandu Post | 04.20.2023</a>
-
 Presentation
 ======
 
