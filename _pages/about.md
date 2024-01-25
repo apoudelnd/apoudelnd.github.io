@@ -14,3 +14,10 @@ Beyond academia, my commitment to bridging the gap between the underprivileged a
 I earned my Bachelor's Degree from the Department of Computer and Information Science at <a href="https://www.olemiss.edu/"> The University of Mississippi</a> on December 2019.
 
 <b>Interests: NLP, Semantic Analsysis, Misinformation, Computational Journalism, Software Traceability, Global Affairs</b>
+
+Op-ed
+======
+
+* <a href= "https://myrepublica.nagariknetwork.com/news/democracy-capitalism-and-the-path-to-social-equilibrium/">Democracy, Capitalism, and the Path to Social Equilibrium, MyRepublica | 08.26.2023</a>
+* <a href= "https://myrepublica.nagariknetwork.com/news/china-s-peace-pivot-challenging-perceptions-and-assessing-its-impact/">China's Peace Pivot: Challenging Perceptions and Assessing Its Impact, MyRepublica | 05.19.2023</a>
+* <a href= "https://kathmandupost.com/columns/2023/04/20/rise-of-multipolarity-and-nepal">Nepal in a multipolar world, The Kathmandu Post | 04.20.2023</a>
