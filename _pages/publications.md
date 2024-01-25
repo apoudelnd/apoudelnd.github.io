@@ -25,7 +25,6 @@ Presentation
 Articles on Geopolitics
 ======
 
-* [<b>Nepal in a multipolar world</b]<br>
-<a href= "https://kathmandupost.com/columns/2023/04/20/rise-of-multipolarity-and-nepal"> 
+<a href= "https://kathmandupost.com/columns/2023/04/20/rise-of-multipolarity-and-nepal">Nepal in a multipolar world</a>
 
 
