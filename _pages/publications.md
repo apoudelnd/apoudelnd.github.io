@@ -22,7 +22,7 @@ Presentation
 * [<b>Presenter</b>, Poster titled Live-monitoring Sexual Harassment Reports in Social Networks](https://apoudel1021.github.io/files/LSU%20Research%20DAY%202019.pdf)<br>
 <a href= "https://sites01.lsu.edu/wp/discover/files/2019/04/Discover-Day-Program-2019-online.pdf"> LSU Discover Day 2019</a>, Baton Rogue, Louisiana
 
-Articles on Geopolitics
+ON GEOPOLITICS
 ======
 
 * <a href= "https://myrepublica.nagariknetwork.com/news/democracy-capitalism-and-the-path-to-social-equilibrium/">Democracy, Capitalism, and the Path to Social Equilibrium, MyRepublica | 08.26.2023</a>
