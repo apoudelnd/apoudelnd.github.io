@@ -13,7 +13,7 @@ Beyond academia, my commitment to bridging the gap between the underprivileged a
 
 I earned my Bachelor's Degree from the Department of Computer and Information Science at <a href="https://www.olemiss.edu/"> The University of Mississippi</a> on December 2019.
 
-<b>Interests: NLP, Semantic Analsysis, Misinformation, Computational Journalism, Software Traceability, Global Affairs</b>
+<b>Interests: NLP, Computational Journalism, Software Traceability, Global Affairs</b>
 
 Op-ed
 ======
