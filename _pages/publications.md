@@ -10,10 +10,10 @@ author_profile: true
 <b>Poudel, A.</b>, Weninger, T. (2024). TheWebConf 2024.
 
 * [Leveraging Transformer-based Language Models to Automate Requirements Satisfaction Assessment](https://arxiv.org/pdf/2312.04463.pdf)<br>
-Poudel, A., Lin, J., & Cleland-Huang, J. (2023). Leveraging Transformer-based Language Models to Automate Requirements Satisfaction Assessment. arXiv preprint arXiv:2312.04463.
+<b>Poudel, A.</b>, Lin, J., & Cleland-Huang, J. (2023). Leveraging Transformer-based Language Models to Automate Requirements Satisfaction Assessment. arXiv preprint arXiv:2312.04463.
 
 * [Enhancing Automated Software Traceability by Transfer Learning from Open-World Data](https://arxiv.org/abs/2207.01084)<br>
-Lin, J., Poudel, A., Yu, W., Zeng, Q., Jiang, M., & Cleland-Huang, J. (2022). Enhancing Automated Software Traceability by Transfer Learning from Open-World Data. arXiv preprint arXiv:2207.01084.
+Lin, J., <b>Poudel, A.</b>, Yu, W., Zeng, Q., Jiang, M., & Cleland-Huang, J. (2022). Enhancing Automated Software Traceability by Transfer Learning from Open-World Data. arXiv preprint arXiv:2207.01084.
 
 
 * [Towards Automated Sexual Harassment Report Tracking](https://ojs.aaai.org//index.php/ICWSM/article/view/7296)<br>
