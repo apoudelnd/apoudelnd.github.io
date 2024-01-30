@@ -6,7 +6,7 @@ author_profile: true
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=bjDppecAAAAJ&hl=en)<br>
 
-* [Navigating the Post-API Dilemma | Search Engine Results Pages Present a Biased View of Social Media Data]()<br>
+* [Navigating the Post-API Dilemma | Search Engine Results Pages Present a Biased View of Social Media Data](https://arxiv.org/pdf/2401.15479.pdf)<br>
 <b>Poudel, A.</b>, Weninger, T. (2024). TheWebConf 2024.
 
 * [Leveraging Transformer-based Language Models to Automate Requirements Satisfaction Assessment](https://arxiv.org/pdf/2312.04463.pdf)<br>
