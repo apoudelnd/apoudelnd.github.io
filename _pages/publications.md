@@ -6,18 +6,21 @@ author_profile: true
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=bjDppecAAAAJ&hl=en)<br>
 
+* [EntGPT: Linking Generative Large Language Models with Knowledge Bases](https://arxiv.org/abs/2402.06738)<br>
+Ding, Y.*, <b>Poudel, A.*</b>, Zeng, Q., Weninger, T., Veeramani, B., Bhattacharya, S. (2024). (In Review, * - Equal authorship)
+
 * [Navigating the Post-API Dilemma | Search Engine Results Pages Present a Biased View of Social Media Data](https://arxiv.org/pdf/2401.15479.pdf)<br>
 <b>Poudel, A.</b>, Weninger, T. (2024). TheWebConf 2024.
 
 * [Leveraging Transformer-based Language Models to Automate Requirements Satisfaction Assessment](https://arxiv.org/pdf/2312.04463.pdf)<br>
-<b>Poudel, A.</b>, Lin, J., & Cleland-Huang, J. (2023). Leveraging Transformer-based Language Models to Automate Requirements Satisfaction Assessment. arXiv preprint arXiv:2312.04463.
+<b>Poudel, A.</b>, Lin, J., & Cleland-Huang, J. (2023). arXiv preprint arXiv:2312.04463.
 
 * [Enhancing Automated Software Traceability by Transfer Learning from Open-World Data](https://arxiv.org/abs/2207.01084)<br>
-Lin, J., <b>Poudel, A.</b>, Yu, W., Zeng, Q., Jiang, M., & Cleland-Huang, J. (2022). Enhancing Automated Software Traceability by Transfer Learning from Open-World Data. arXiv preprint arXiv:2207.01084.
+Lin, J., <b>Poudel, A.</b>, Yu, W., Zeng, Q., Jiang, M., & Cleland-Huang, J. (2022). arXiv preprint arXiv:2207.01084.
 
 
 * [Towards Automated Sexual Harassment Report Tracking](https://ojs.aaai.org//index.php/ICWSM/article/view/7296)<br>
-Hassan, N., <b>Poudel, A.</b>, Hale, J., Hubacek, C., Huq, K. T., Karmaker Santu, S. K., & Ahmed, S. I. (2020). Towards Automated Sexual Violence Report Tracking. Proceedings of the International AAAI Conference on Web and Social Media, 14(1), 250-259.
+Hassan, N., <b>Poudel, A.</b>, Hale, J., Hubacek, C., Huq, K. T., Karmaker Santu, S. K., & Ahmed, S. I. (2020). Proceedings of the International AAAI Conference on Web and Social Media, 14(1), 250-259.
 
 
 Presentation
