@@ -8,7 +8,7 @@ author_profile: true
 
 * [EntGPT: Linking Generative Large Language Models with Knowledge Bases](https://arxiv.org/abs/2402.06738)<br>
 Ding, Y*., <b>Poudel, A*.</b>, Zeng, Q., Weninger, T., Veeramani, B., Bhattacharya, S. (2024).<br>
-(In Review || * - Equal contribution)
+(In Review | *Equal contribution)
 
 * [Navigating the Post-API Dilemma | Search Engine Results Pages Present a Biased View of Social Media Data](https://arxiv.org/pdf/2401.15479.pdf)<br>
 <b>Poudel, A.</b>, Weninger, T. (2024). TheWebConf 2024.
