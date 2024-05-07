@@ -23,16 +23,14 @@ Work Experience
   * University of Notre Dame, South Bend, IN
   * Mentor: <a href = "https://timweninger.com/">Prof. Tim Weninger </a>
 
-
 * July 2020 - August 2021: Data Analyst
-  * PeopleShores PBC, Clarksdale, MS 
-
-`
+  * PeopleShores PBC, Clarksdale, MS
+   
 * Feb 2020- July 2020: Research Assistant
   * Texas A&M Experiment and Engineering Station, College Station, TX
   * Mentor: <a href= "https://people.engr.tamu.edu/huangrh/index.html">Prof. Ruihong Huang</a>
 
-
+ 
 * May 2018 - Dec 2019: Undergraduate Research Assistant
   * Data Exploration and Research Laboratory, University, MS 
   * Mentor: <a href= "https://ischool.umd.edu/about/directory/naeemul-hassan">Prof. Naeemul Hassan</a>
