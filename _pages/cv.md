@@ -21,13 +21,13 @@ Work Experience
 
 * August 2021 - Present: Graduate Research Assistant
   * University of Notre Dame, South Bend, IN
-  * Mentor: <a href = "https://engineering.nd.edu/faculty/jane-cleland-huang/">Prof. Jane Cleland Huang </a>
+  * Mentor: <a href = "https://timweninger.com/">Prof. Tim Weninger </a>
 
 
 * July 2020 - August 2021: Data Analyst
   * PeopleShores PBC, Clarksdale, MS 
 
-
+`
 * Feb 2020- July 2020: Research Assistant
   * Texas A&M Experiment and Engineering Station, College Station, TX
   * Mentor: <a href= "https://people.engr.tamu.edu/huangrh/index.html">Prof. Ruihong Huang</a>
