@@ -16,6 +16,10 @@ Follow my walks of life here: <a href= "https://www.instagram.com/amrit_poudel1/
 Latest
 ======
 
+<ul>
+  <li>07.01 - 07.14 | Attended summer School on AI and Sustainability at Tsinghua University, Beijing, China 🇨🇳🇨🇳</li>
+</ul>
+
 *  07.01 - 07.14 | Attended summer School on AI and Sustainability at Tsinghua Univeristy, Beijing, China 🇨🇳🇨🇳 <br>
 * 06.24 - 06.27 | Particpated in Using Deliberative Technologies in Polarized Contexts WORKSHOP, Organized by Toda Peace Institute at the University of Notre Dame's Kroc Institute, South Bend, Indiana 🇺🇸🇺🇸 <br>
 * 05.18 - 06.12 | Around the Himalayas 🇳🇵🇳🇵<br>
