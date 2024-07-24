@@ -9,7 +9,7 @@ redirect_from:
 
 🙏 ☘️☘️
 
-<b>Research Interests: LLMs, Computational Journalism, Software Traceability, Global Affairs, Peace Studies</b>
+<b>Research Interests: LLMs, Computational Journalism, Software Traceability, Global Affairs, Peace Studies</b> <br>
 Advisor: <a href= "https://engineering.nd.edu/faculty/tim-weninger/">Professor Tim Weninger</a>
 
 Latest
