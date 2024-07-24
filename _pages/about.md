@@ -27,12 +27,6 @@ Latest
   
 </ul>
 
-*  07.01 - 07.14 | Attended summer School on AI and Sustainability at Tsinghua Univeristy, Beijing, China 🇨🇳🇨🇳 <br>
-* 06.24 - 06.27 | Particpated in Using Deliberative Technologies in Polarized Contexts WORKSHOP, Organized by Toda Peace Institute at the University of Notre Dame's Kroc Institute, South Bend, Indiana 🇺🇸🇺🇸 <br>
-* 05.18 - 06.12 | Around the Himalayas 🇳🇵🇳🇵<br>
-* 05.13 - 05.18 | Presented our work "Navigating the Post-API Dilemma" at The Web Conference 2024, Singapore (Sentosa Island) 🇸🇬🇸🇬 <br>
-* 04.30 | Selected for the 2024 Leadership Advancing Socially Engaged Research (LASER) cohort! 🎉🎉 <br>
-* 03.07 | Our work "Approval and Legacy: Modi Mantra of Invoking Dead Leaders" has been accepted at American Political Science Association (APSA). 🎉🎉<br>
 
 
 Op-ed
