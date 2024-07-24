@@ -10,7 +10,8 @@ redirect_from:
 🙏 ☘️☘️
 
 <b>Research Interests: LLMs, Computational Journalism, Software Traceability, Global Affairs, Peace Studies</b> <br>
-Advisor: <a href= "https://engineering.nd.edu/faculty/tim-weninger/">Professor Tim Weninger</a>
+Advisor: <a href= "https://engineering.nd.edu/faculty/tim-weninger/">Professor Tim Weninger</a> <br>
+Follow my walks of life here: <a href= "https://www.instagram.com/amrit_poudel1/?hl=en"> ✈️✈️📷📷 </a>
 
 Latest
 ======
