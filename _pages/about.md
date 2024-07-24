@@ -17,12 +17,12 @@ Latest
 ======
 
 <ul>
-  <li>07.01 - 07.14 | Attended Summer School on AI and Sustainability at Tsinghua Univeristy, Beijing, China 🇨🇳🇨🇳 </li>
-  <li>06.24 - 06.27 | Participated in Using Deliberative Technologies in Polarized Contexts WORKSHOP, Organized by Toda Peace Institute at the University of Notre Dame's Kroc Institute, South Bend, Indiana 🇺🇸🇺🇸 </li>
+  <li>07.01 - 07.14 | Attended **Summer School on AI and Sustainability** at Tsinghua Univeristy, Beijing, China 🇨🇳🇨🇳 </li>
+  <li>06.24 - 06.27 | Participated in **Using Deliberative Technologies in Polarized Contexts Workshop**. Organized by Toda Peace Institute at the University of Notre Dame's Kroc Institute, South Bend, Indiana 🇺🇸🇺🇸 </li>
   <li>05.18 - 06.12 | Around the Himalayas 🇳🇵🇳🇵</li>
-  <li>05.13 - 05.18 | Presented our work "Navigating the Post-API Dilemma" at The Web Conference 2024, Singapore (Sentosa Island) 🇸🇬🇸🇬 </li>
-  <li>04.30 | Selected for the 2024 Leadership Advancing Socially Engaged Research (LASER) cohort! 🎉🎉 </li>
-  <li>03.07 | Our work "Approval and Legacy: Modi Mantra of Invoking Dead Leaders" has been accepted at American Political Science Association (APSA). 🎉🎉</li>
+  <li>05.13 - 05.18 | Presented our work **"Navigating the Post-API Dilemma"** at The Web Conference 2024, Singapore (Sentosa Island) 🇸🇬🇸🇬 </li>
+  <li>04.30 | Selected for the **2024 Leadership Advancing Socially Engaged Research (LASER)** cohort! 🎉🎉 </li>
+  <li>03.07 | Our work **"Approval and Legacy: Modi Mantra of Invoking Dead Leaders"** has been accepted at American Political Science Association (APSA). 🎉🎉</li>
 </ul>
 
 Op-ed
