@@ -16,6 +16,7 @@ Latest
 ======
 
 <ul>
+  <li>09.05 - 09.08 | Presented our work "Approval and Legacy" at American Political Science Association (APSA), Philadelphia, PA </li>
   <li>07.01 - 07.14 | Attended Summer School on AI and Sustainability at Tsinghua Univeristy, Beijing, China 🇨🇳🇨🇳 </li>
   <li>06.24 - 06.27 | Participated in Using Deliberative Technologies in Polarized Contexts Workshop. Organized by Toda Peace Institute at the University of Notre Dame's Kroc Institute, South Bend, Indiana 🇺🇸🇺🇸 </li>
   <li>05.18 - 06.12 | Around the Himalayas 🇳🇵🇳🇵</li>
