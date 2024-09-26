@@ -26,10 +26,10 @@ Hassan, N., <b>Poudel, A.</b>, Hale, J., Hubacek, C., Huq, K. T., Karmaker Santu
 
 Posters
 ======
-* [<b>Presenter</b>,Approval and Legacy: Modi Mantra of Invoking Dead Leaders](https://apsa2024-apsa.ipostersessions.com/Default.aspx?s=91-0C-7B-A2-41-0E-91-1B-16-A7-EC-A1-25-BF-D8-08))<br>
+* [Approval and Legacy: Modi Mantra of Invoking Dead Leaders](https://apsa2024-apsa.ipostersessions.com/Default.aspx?s=91-0C-7B-A2-41-0E-91-1B-16-A7-EC-A1-25-BF-D8-08)<br>
 <a href= "https://convention2.allacademic.com/one/apsa/apsa24/index.php?cmd=Online+Program+View+Paper&selected_paper_id=2141819&PHPSESSID=g06khiol1t8opn1pd67d74bscr"> American Political Science Association (APSA) 2024 </a>, Philadelphia, PA
 
-* [<b>Presenter</b>,Live-monitoring Sexual Harassment Reports in Social Networks](https://apoudel1021.github.io/files/LSU%20Research%20DAY%202019.pdf)<br>
+* [Live-monitoring Sexual Harassment Reports in Social Networks](https://apoudel1021.github.io/files/LSU%20Research%20DAY%202019.pdf)<br>
 <a href= "https://sites01.lsu.edu/wp/discover/files/2019/04/Discover-Day-Program-2019-online.pdf"> LSU Discover Day 2019</a>, Baton Rogue, LA
 
 
