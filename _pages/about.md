@@ -53,8 +53,8 @@ Collaborated with Dr. Hassan on developing tools to detect online cries for help
 
 Services
 ======
-Program Committe Member: ASONAM '23/'24
-Reviewer: ICWSM '23/'24/'25, ACL '24, Machine Learning with Applications, Data Mining and Discovery, TKDE '22/'23
+**Program Committe Member:** ASONAM '23/'24 <br>
+**Reviewer:** ICWSM '23/'24/'25, ACL '24, Machine Learning with Applications, Data Mining and Discovery, TKDE '22/'23
 
 
 
