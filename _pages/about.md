@@ -51,6 +51,10 @@ Collaborated with Dr. Hassan on developing tools to detect online cries for help
 * <a href="https://math.olemiss.edu/undergraduate-awards-recipients/"> The John Roger Moore III Scholarship, Department of Mathematics, 2018 </a>
 * <a href="https://international.olemiss.edu/scholarships-for-international-undergraduates/"> Academic Excellence Award, The University of Mississippi, 2016-2020 </a>
 
+Services
+======
+Program Committe Member: ASONAM '23/'24
+Reviewer: ICWSM '23/'24/'25, ACL '24, Machine Learning with Applications, Data Mining and Discovery, TKDE '22/'23
 
 
 
