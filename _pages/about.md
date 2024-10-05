@@ -40,14 +40,15 @@ I earned my Bachelor's Degree from the Department of Computer and Information Sc
 
 Awards
 ======
+* Leadership Advancing Socially Engaged Research(LASER) Fellow, University of Notre Dame, 2024
 
-* Innovation Scholar with McLean Institute’s Catalyzing Entrepreneurship and Economic Development <br>
+* Innovation Scholar with McLean Institute’s Catalyzing Entrepreneurship and Economic Development, University of Mississippi, 2018/19 <br>
 
 _Each year ten undergraduate students will be named McLean Institute Innovation Scholars. These will be exemplary undergraduate students with an interest in entrepreneurship and economic development in Mississippi’s rural communities._ <a href="https://mclean.olemiss.edu/ceed/"> More...</a>
   
 * Undergraduate Research: Track-1 Summer Research Fellowship Award 2018 <br>
 
-_Hassan and Amrit Poudel, a junior from Nepal, are developing tools to identify online cries for help from those who may have experienced sexual harassment or mistreatment. The duo has collected more than a million sexual harassment-related tweets from Twitter. Using natural language processing techniques, they have identified 15,000 of the tweets as sexual harassment outcries._ <a href ="https://news.olemiss.edu/undergraduates-conducting-data-science-research-faculty-mentors/"> More... </a>
+_Hassan and Amrit Poudel, a junior from Nepal, are developing tools to identify online cries for help from those who may have experienced sexual harassment or mistreatment. The duo has collected more than a million sexual harassment-related tweets from Twitter._ <a href ="https://news.olemiss.edu/undergraduates-conducting-data-science-research-faculty-mentors/"> More... </a>
 
 * <a href="https://math.olemiss.edu/undergraduate-awards-recipients/"> The John Roger Moore III Scholarship, Department of Mathematics, 2018 </a>
 * <a href="https://international.olemiss.edu/scholarships-for-international-undergraduates/"> Academic Excellence Award, The University of Mississippi, 2016-2020 </a>
