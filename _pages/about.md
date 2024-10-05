@@ -43,12 +43,10 @@ Awards
 * Leadership Advancing Socially Engaged Research(LASER) Fellow, University of Notre Dame, 2024
 
 * Innovation Scholar with McLean Institute’s Catalyzing Entrepreneurship and Economic Development, University of Mississippi, 2018/19 <br>
-
-_Each year ten undergraduate students will be named McLean Institute Innovation Scholars. These will be exemplary undergraduate students with an interest in entrepreneurship and economic development in Mississippi’s rural communities._ <a href="https://mclean.olemiss.edu/ceed/"> More...</a>
+Selected as one of ten undergraduate students to serve as McLean Institute Innovation Scholars. Focused on fostering entrepreneurship and economic growth in Mississippi’s rural communities. <a href="https://mclean.olemiss.edu/ceed/">Read More...</a>
   
 * Undergraduate Research: Track-1 Summer Research Fellowship Award 2018 <br>
-
-_Hassan and Amrit Poudel, a junior from Nepal, are developing tools to identify online cries for help from those who may have experienced sexual harassment or mistreatment. The duo has collected more than a million sexual harassment-related tweets from Twitter._ <a href ="https://news.olemiss.edu/undergraduates-conducting-data-science-research-faculty-mentors/"> More... </a>
+Collaborated with Dr. Hassan on developing tools to detect online cries for help related to sexual harassment. Our work involved analyzing over a million tweets to identify cases of mistreatment. <a href ="https://news.olemiss.edu/undergraduates-conducting-data-science-research-faculty-mentors/"> Read More... </a>
 
 * <a href="https://math.olemiss.edu/undergraduate-awards-recipients/"> The John Roger Moore III Scholarship, Department of Mathematics, 2018 </a>
 * <a href="https://international.olemiss.edu/scholarships-for-international-undergraduates/"> Academic Excellence Award, The University of Mississippi, 2016-2020 </a>
