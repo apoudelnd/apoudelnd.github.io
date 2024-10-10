@@ -29,7 +29,7 @@ op-ed
 ======
 * <a href= "https://kathmandupost.com/columns/2024/06/01/gaza-inferno-and-beyond/"> gaza inferno and beyond, the kathmandu post (tkp) | 06.01.2024</a>
 * <a href= "https://myrepublica.nagariknetwork.com/news/democracy-capitalism-and-the-path-to-social-equilibrium/">democracy, capitalism, and the path to social equilibrium, myrepublica | 08.26.2023</a>
-* <a href= "https://myrepublica.nagariknetwork.com/news/china-s-peace-pivot-challenging-perceptions-and-assessing-its-impact/"china's Peace Pivot: challenging perceptions and assessing its impact, myrepublica | 05.19.2023</a>
+* <a href= "https://myrepublica.nagariknetwork.com/news/china-s-peace-pivot-challenging-perceptions-and-assessing-its-impact/">china's Peace Pivot: challenging perceptions and assessing its impact, myrepublica | 05.19.2023</a>
 * <a href= "https://kathmandupost.com/columns/2023/04/20/rise-of-multipolarity-and-nepal">nepal in a multipolar world, the kathmandu post (tkp) | 04.20.2023</a>
 * <a href= "https://myrepublica.nagariknetwork.com/news/author/1950">myrepublica author Page | poems, and more!</a>
 
