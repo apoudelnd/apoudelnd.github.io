@@ -36,7 +36,9 @@ op-ed
 
 beyond academia, my commitment to bridging the gap between the underprivileged and the privileged has driven my actions. following my undergraduate studies, i dedicated time to working in the mississippi delta (clarksdale, ms) with <a href = "https://peopleshores.com">peopleshores pbc</a>, where i implemented initiatives to empower marginalized communities. through workshops and training sessions, i equipped individuals with fundamental technological skills in data science, preparing them for the demands of the contemporary workforce.
 
-i earned my bachelor's Degree from the department of computer and information science at <a href="https://www.olemiss.edu/"> the university of mississippi</a> on december 2019.
+memberships
+======
+acl, acm, apsa
 
 awards
 ======
@@ -55,7 +57,5 @@ services
 ======
 **program committe member:** asonam '23/'24 <br>
 **reviewer:** icwsm '23/'24/'25, acl '24, machine learning with applications, data mining and discovery, tkde '22/'23
-
-
 
 
