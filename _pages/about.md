@@ -11,7 +11,7 @@ redirect_from:
 
 <b>interests: llm, social media, search engine, nlp, bias, ir, global affairs</b> <br>
 phd advisor: <a href= "https://engineering.nd.edu/faculty/tim-weninger/">tim weninger</a> <br>
-worked alongside <a href= "https://engineering.nd.edu/faculty/jane-cleland-huang/">jane cleland huang</a>, <a href= "https://people.engr.tamu.edu/huangrh/index.html">ruihong huang</a>, <a href= https://ischool.umd.edu/directory/naeemul-hassan/>naeemul hassan</a> in the past
+prev. academic advisors: <a href= "https://engineering.nd.edu/faculty/jane-cleland-huang/">jane cleland huang</a>, <a href= "https://people.engr.tamu.edu/huangrh/index.html">ruihong huang</a>, <a href= https://ischool.umd.edu/directory/naeemul-hassan/>naeemul hassan</a>
 
 latest
 ======
