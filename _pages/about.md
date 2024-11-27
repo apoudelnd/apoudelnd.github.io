@@ -57,7 +57,7 @@ collaborated with dr. hassan on developing tools to detect online cries for help
 
 services
 ======
-**program committe member:** asonam '23/'24 <br>
-**reviewer:** icwsm '23/'24/'25, acl '24, machine learning with applications, data mining and discovery, tkde '22/'23
+**program committe member:** siam data mining conference sdm 2025, asonam '23/'24 <br>
+**reviewer:** the web conference '25, icwsm '23/'24/'25, acl '24, machine learning with applications, data mining and discovery, tkde '22/'23
 
 
