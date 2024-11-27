@@ -9,7 +9,7 @@ redirect_from:
 
 🙏 ☘️☘️
 
-<b>interests: llm, social medias, search engine, nlp, bias, ir, global affairs</b> <br>
+<b>interests: llm, social media, search engine, nlp, bias, ir, global affairs</b> <br>
 advisor: <a href= "https://engineering.nd.edu/faculty/tim-weninger/">tim weninger</a> <br>
 
 latest
