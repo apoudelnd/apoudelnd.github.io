@@ -9,21 +9,21 @@ redirect_from:
 
 🙏 ☘️☘️
 
-<b>interests: llm's, computational social science, social media and analysis, peace studies</b> <br>
+<b>interests: llm, social medias, search engine, nlp, bias, ir, global affairs</b> <br>
 advisor: <a href= "https://engineering.nd.edu/faculty/tim-weninger/">tim weninger</a> <br>
 
 latest
 ======
 
 <ul>
-  <li>11.12 - 11.16 | empirical methods in natural language processing (emnlp), miami, florida 🌴🌴</li>
-  <li>09.05 - 09.08 | presented our work "approval and legacy" at american political science association (apsa), philadelphia, pa 🔔🔔</li>
-  <li>07.01 - 07.14 | attended summer school on ai and sustainability at tsinghua univeristy, beijing, china 🇨🇳🇨🇳 </li>
-  <li>06.24 - 06.27 | participated in "using deliberative technologies in polarized contexts" workshop. organized by toda peace institute at the university of notre dame's kroc institute, south bend, indiana 🇺🇸🇺🇸 </li>
-  <li>05.18 - 06.12 | around the himalayas 🇳🇵🇳🇵</li>
-  <li>05.13 - 05.18 | presented our work "navigating the post-api dilemma" at the web conference 2024, singapore (sentosa island) 🇸🇬🇸🇬 </li>
-  <li>04.30 | selected for the 2024 leadership advancing socially engaged research (laser) cohort! 🎉🎉 </li>
-  <li>03.07 | our work "approval and legacy: modi mantra of invoking dead leaders" has been accepted at american political science association (apsa). 🎉🎉</li>
+  <li>11.12 - 11.16 | empirical methods in natural language processing (emnlp), miami, florida 🌴</li>
+  <li>09.05 - 09.08 | presented our work "approval and legacy" at american political science association (apsa), philadelphia, pa 🔔</li>
+  <li>07.01 - 07.14 | attended summer school on ai and sustainability at tsinghua univeristy, beijing, china 🇨🇳 </li>
+  <li>06.24 - 06.27 | participated in "using deliberative technologies in polarized contexts" workshop. organized by toda peace institute at the university of notre dame's kroc institute, south bend, indiana 🇺🇸</li>
+  <li>05.18 - 06.12 | around the himalayas 🇳🇵</li>
+  <li>05.13 - 05.18 | presented our work "navigating the post-api dilemma" at the web conference 2024, singapore (sentosa island) 🇸🇬</li>
+  <li>04.30 | selected for the 2024 leadership advancing socially engaged research (laser) cohort! 🎉 </li>
+  <li>03.07 | our work "approval and legacy: modi mantra of invoking dead leaders" has been accepted at american political science association (apsa). 🎉</li>
 </ul>
 
 op-ed
