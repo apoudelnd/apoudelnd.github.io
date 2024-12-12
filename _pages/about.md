@@ -17,6 +17,7 @@ latest
 ======
 
 <ul>
+  <li>12.09 | our work "citation and trust in llm generated responses" has been accepted at AAAI 2025! 🎉</li>
   <li>11.12 - 11.16 | empirical methods in natural language processing (emnlp), miami, florida 🌴</li>
   <li>09.05 - 09.08 | presented our work "approval and legacy" at american political science association (apsa), philadelphia, pa 🔔</li>
   <li>07.01 - 07.14 | attended summer school on ai and sustainability at tsinghua univeristy, beijing, china 🇨🇳 </li>
