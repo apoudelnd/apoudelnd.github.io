@@ -37,8 +37,8 @@ His work, recognized at top conferences, advances technical innovation while sha
   <li><strong><a href="https://arxiv.org/abs/2501.01303">Citations and Trust in LLM Generated Responses</a></strong> | AAAI 2025</li>
   <li><strong><a href="https://arxiv.org/abs/2402.06738">EntGPT: Linking Generative Large Language Models with Knowledge Bases</a></strong> (In Review)</li>
   <li><strong><a href="https://arxiv.org/pdf/2401.15479.pdf">Navigating the Post-API Dilemma: Search Engine Results Pages Present a Biased View of Social Media Data</a></strong> | TheWebConf 2024</li>
-  <li><strong><a href="https://arxiv.org/pdf/2312.04463.pdf">Leveraging Transformer-based Language Models to Automate Requirements Satisfaction Assessment</a></strong> | arXiv preprint arXiv:2312.04463</li>
-  <li><strong><a href="https://arxiv.org/abs/2207.01084">Enhancing Automated Software Traceability by Transfer Learning from Open-World Data</a></strong> | arXiv preprint arXiv:2207.01084</li>
+  <li><strong><a href="https://arxiv.org/pdf/2312.04463.pdf">Leveraging Transformer-based Language Models to Automate Requirements Satisfaction Assessment</a></strong> | arXiv</li>
+  <li><strong><a href="https://arxiv.org/abs/2207.01084">Enhancing Automated Software Traceability by Transfer Learning from Open-World Data</a></strong> | arXiv</li>
   <li><strong><a href="https://ojs.aaai.org//index.php/ICWSM/article/view/7296">Towards Automated Sexual Harassment Report Tracking</a></strong> | ICWSM 2020</li>
 
 </ol>
