@@ -41,7 +41,7 @@ His work, recognized at top conferences, advances technical innovation while sha
   <li><a href="https://myrepublica.nagariknetwork.com/news/author/1950/">More writings & poetry on <em>MyRepublica</em></a></li>  
 </ul>
 
-<h2>Awards & Fellowships</h2>
+<h2>Selected Awards</h2>
 <ul>
   <li>
     <a href="https://graduateschool.nd.edu/graduate-training/leadership/laser/2024-laser-training-cohort/">
