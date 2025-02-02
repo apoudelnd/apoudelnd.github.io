@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-🙏 ☘️☘️ <h3><a href="https://scholar.google.com/citations?user=bjDppecAAAAJ&hl=en">Google Scholar Profile</a></h3>
+🙏 ☘️☘️
 <p><strong>Amrit Poudel</strong> is a researcher and an enthusiast who dabbles around the intersection of Large Language Models (LLMs), social media, search engines, NLP, bias, and information retrieval. His work ensures that AI-driven technologies remain transparent, accountable, and socially responsible while addressing their broader societal impact.</p>
 
 <p>Beyond academia, Poudel is committed to bridging digital divides. He worked in the Mississippi Delta, empowering underprivileged communities through data science training and digital workforce development. His research and advocacy continue to focus on ensuring equitable access to knowledge and opportunity in the digital age.</p>  
