@@ -31,6 +31,7 @@ His work, recognized at top conferences, advances technical innovation while sha
   <li><strong>03.07.2024</strong> | Our work <em>"Approval and Legacy: Modi’s Mantra of Invoking Dead Leaders"</em> has been accepted at <a href="https://www.apsanet.org/annualmeeting">APSA 2024</a>. 🎉</li>  
 </ul>
 
+
 <h2>Op-Eds & Commentary</h2>  
 <ul>  
   <li><strong>06.01.2024</strong> | <a href="https://kathmandupost.com/columns/2024/06/01/gaza-inferno-and-beyond/">Gaza Inferno and Beyond</a>, <em>The Kathmandu Post</em></li>  
@@ -41,29 +42,50 @@ His work, recognized at top conferences, advances technical innovation while sha
 </ul>
 
 
+<h2>Professional Memberships</h2>
+<ul>
+  <li>Association for Computational Linguistics (ACL)</li>
+  <li>Association for Computing Machinery (ACM)</li>
+  <li>American Political Science Association (APSA)</li>
+</ul>
 
-
-
-memberships
-======
-acl, acm, apsa
-
-awards
-======
-* leadership advancing socially engaged research (laser) fellow, university of notre dame, 2024
-
-* innovation scholar with mclean institute’s catalyzing entrepreneurship and economic development, university of mississippi, 2018/19 <br>
-selected as one of ten undergraduate students to serve as mclean institute innovation scholars. focused on fostering entrepreneurship and economic growth in mississippi’s rural communities. <a href="https://mclean.olemiss.edu/ceed/">read more...</a>
+<h2>Awards & Fellowships</h2>
+<ul>
+  <li><strong>Leadership Advancing Socially Engaged Research (LASER) Fellow</strong>, University of Notre Dame, 2024</li>
   
-* undergraduate research: track-1 summer research fellowship award 2018 <br>
-collaborated with dr. hassan on developing tools to detect online cries for help related to sexual harassment. our work involved analyzing over a million tweets to identify cases of mistreatment. <a href ="https://news.olemiss.edu/undergraduates-conducting-data-science-research-faculty-mentors/"> read more... </a>
+  <li>
+    <strong>Innovation Scholar, McLean Institute’s Catalyzing Entrepreneurship and Economic Development</strong>, University of Mississippi, 2018/19 <br>
+    Selected as one of ten undergraduate students to serve as McLean Institute Innovation Scholars, focusing on fostering entrepreneurship and economic growth in Mississippi’s rural communities.  
+    <a href="https://mclean.olemiss.edu/ceed/">Read more...</a>
+  </li>
 
-* <a href="https://math.olemiss.edu/undergraduate-awards-recipients/"> the john roger moore iii scholarship, department of mathematics, 2018 </a>
-* <a href="https://international.olemiss.edu/scholarships-for-international-undergraduates/"> academic excellence award, the university of mississippi, 2016-2020 </a>
+  <li>
+    <strong>Track-1 Summer Research Fellowship Award</strong>, 2018 <br>
+    Conducted research with Dr. Naeemul Hassan on developing tools to detect online cries for help related to sexual harassment, analyzing over a million tweets to identify cases of mistreatment.  
+    <a href="https://news.olemiss.edu/undergraduates-conducting-data-science-research-faculty-mentors/">Read more...</a>
+  </li>
 
-services
-======
-**program committe member:** siam data mining conference sdm 2025, asonam '23/'24 <br>
-**reviewer:** the web conference '25, icwsm '23/'24/'25, acl '24, machine learning with applications, data mining and discovery, tkde '22/'23
+  <li>
+    <a href="https://math.olemiss.edu/undergraduate-awards-recipients/">
+      <strong>John Roger Moore III Scholarship</strong>, Department of Mathematics, 2018
+    </a>
+  </li>
+
+  <li>
+    <a href="https://international.olemiss.edu/scholarships-for-international-undergraduates/">
+      <strong>Academic Excellence Award</strong>, University of Mississippi, 2016-2020
+    </a>
+  </li>
+</ul>
+
+<h2>Service</h2>
+<ul>
+  <li><strong>Program Committee Member:</strong> SIAM Data Mining Conference (SDM) 2025, ASONAM '23/'24</li>
+  <li><strong>Reviewer:</strong> The Web Conference '25, ICWSM '23/'24/'25, ACL '24, 
+    Machine Learning with Applications, Data Mining and Discovery, TKDE '22/'23</li>
+</ul>
+
+
+
 
 
