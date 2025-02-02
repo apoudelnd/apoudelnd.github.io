@@ -44,30 +44,31 @@ His work, recognized at top conferences, advances technical innovation while sha
 <h2>Awards & Fellowships</h2>
 <ul>
   <li>
-    <strong>Leadership Advancing Socially Engaged Research (LASER) Fellow</strong>  
-    <br>University of Notre Dame, 2024  
-    <a href="https://graduateschool.nd.edu/graduate-training/leadership/laser/2024-laser-training-cohort/">Learn more...</a>
+    <a href="https://graduateschool.nd.edu/graduate-training/leadership/laser/2024-laser-training-cohort/">
+      <strong>Leadership Advancing Socially Engaged Research (LASER) Fellow</strong>
+    </a>  
+    <br>University of Notre Dame, 2024
   </li>
 
   <li>
-    <strong>Innovation Scholar, McLean Institute’s Catalyzing Entrepreneurship and Economic Development</strong>  
-    <br>University of Mississippi, 2018/19  
-    Recognized as one of ten undergraduate scholars selected for initiatives aimed at fostering economic growth and entrepreneurship in Mississippi’s rural communities.  
-    <a href="https://mclean.olemiss.edu/ceed/">Learn more...</a>
+    <a href="https://mclean.olemiss.edu/ceed/">
+      <strong>Innovation Scholar, McLean Institute’s Catalyzing Entrepreneurship and Economic Development</strong>
+    </a>  
+    <br>University of Mississippi, 2018/19
   </li>
 
   <li>
-    <strong>Track-1 Summer Research Fellowship Award</strong>  
-    <br>University of Mississippi, 2018  
-    Conducted collaborative research with Dr. Naeemul Hassan on developing tools for detecting online cries for help related to sexual harassment, analyzing over one million tweets to identify cases of mistreatment.  
-    <a href="https://news.olemiss.edu/undergraduates-conducting-data-science-research-faculty-mentors/">Learn more...</a>
+    <a href="https://news.olemiss.edu/undergraduates-conducting-data-science-research-faculty-mentors/">
+      <strong>Track-1 Summer Research Fellowship Award</strong>
+    </a>  
+    <br>University of Mississippi, 2018
   </li>
 
   <li>
     <a href="https://math.olemiss.edu/undergraduate-awards-recipients/">
-      <strong>John Roger Moore III Scholarship</strong>, Department of Mathematics  
+      <strong>John Roger Moore III Scholarship</strong>, Department of Mathematics
     </a>  
-    University of Mississippi, 2018
+    <br>University of Mississippi, 2018
   </li>
 
   <li>
