@@ -32,7 +32,7 @@ His work, recognized at top conferences, advances technical innovation while sha
 </ul>
 
 
-<h4>Publications</h4>
+<h2>Publications</h2>
 <ol>
   <li><strong><a href="https://arxiv.org/abs/2501.01303">Citations and Trust in LLM Generated Responses</a></strong> | AAAI 2025</li>
   <li><strong><a href="https://arxiv.org/abs/2402.06738">EntGPT: Linking Generative Large Language Models with Knowledge Bases</a></strong> (In Review)</li>
@@ -43,7 +43,7 @@ His work, recognized at top conferences, advances technical innovation while sha
 
 </ol>
 
-<h4>Posters</h4>
+<h3>Posters</h3>
 <ol>
   <li><strong><a href="https://apsa2024-apsa.ipostersessions.com/Default.aspx?s=91-0C-7B-A2-41-0E-91-1B-16-A7-EC-A1-25-BF-D8-08">Approval and Legacy: Modi Mantra of Invoking Dead Leaders</a></strong> | <a href="https://convention2.allacademic.com/one/apsa/apsa24/index.php?cmd=Online+Program+View+Paper&selected_paper_id=2141819&PHPSESSID=g06khiol1t8opn1pd67d74bscr">APSA 2024</a>, Philadelphia, PA</li>
   <li><strong><a href="https://apoudel1021.github.io/files/LSU%20Research%20DAY%202019.pdf">Live-monitoring Sexual Harassment Reports in Social Networks</a></strong> | <a href="https://sites01.lsu.edu/wp/discover/files/2019/04/Discover-Day-Program-2019-online.pdf">LSU Discover Day 2019</a>, Baton Rouge, LA</li>
