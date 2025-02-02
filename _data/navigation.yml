@@ -2,5 +2,5 @@
 main:
     
   - title: "&#8220;your sin is your lifelessness&#8221; --dylan"
-    url: # (You can leave this blank if you don't want the quote to link anywhere)
-    style: font-style: italic; padding-left: 10px;
+    url: #
+    style: "font-style: italic; text-align: center; width: 100%;"
