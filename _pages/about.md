@@ -31,6 +31,26 @@ His work, recognized at top conferences, advances technical innovation while sha
   <li><strong>03.07.2024</strong> | Our work <em>"Approval and Legacy: Modi’s Mantra of Invoking Dead Leaders"</em> has been accepted at <a href="https://www.apsanet.org/annualmeeting">APSA 2024</a>. 🎉</li>  
 </ul>
 
+<h3><a href="https://scholar.google.com/citations?user=bjDppecAAAAJ&hl=en">Google Scholar Profile</a></h3>
+
+<h4>Publications</h4>
+<ol>
+  <li><strong><a href="https://arxiv.org/abs/2501.01303">Citations and Trust in LLM Generated Responses</a></strong> | AAAI 2025</li>
+  <li><strong><a href="https://arxiv.org/abs/2402.06738">EntGPT: Linking Generative Large Language Models with Knowledge Bases</a></strong> (In Review)</li>
+  <li><strong><a href="https://arxiv.org/pdf/2401.15479.pdf">Navigating the Post-API Dilemma: Search Engine Results Pages Present a Biased View of Social Media Data</a></strong> | TheWebConf 2024</li>
+  <li><strong><a href="https://arxiv.org/pdf/2312.04463.pdf">Leveraging Transformer-based Language Models to Automate Requirements Satisfaction Assessment</a></strong> | arXiv preprint arXiv:2312.04463</li>
+  <li><strong><a href="https://arxiv.org/abs/2207.01084">Enhancing Automated Software Traceability by Transfer Learning from Open-World Data</a></strong> | arXiv preprint arXiv:2207.01084</li>
+  <li><strong><a href="https://ojs.aaai.org//index.php/ICWSM/article/view/7296">Towards Automated Sexual Harassment Report Tracking</a></strong> | ICWSM 2020</li>
+
+</ol>
+
+<h4>Posters</h4>
+<ol>
+  <li><strong><a href="https://apsa2024-apsa.ipostersessions.com/Default.aspx?s=91-0C-7B-A2-41-0E-91-1B-16-A7-EC-A1-25-BF-D8-08">Approval and Legacy: Modi Mantra of Invoking Dead Leaders</a></strong> | <a href="https://convention2.allacademic.com/one/apsa/apsa24/index.php?cmd=Online+Program+View+Paper&selected_paper_id=2141819&PHPSESSID=g06khiol1t8opn1pd67d74bscr">APSA 2024</a>, Philadelphia, PA</li>
+  <li><strong><a href="https://apoudel1021.github.io/files/LSU%20Research%20DAY%202019.pdf">Live-monitoring Sexual Harassment Reports in Social Networks</a></strong> | <a href="https://sites01.lsu.edu/wp/discover/files/2019/04/Discover-Day-Program-2019-online.pdf">LSU Discover Day 2019</a>, Baton Rouge, LA</li>
+</ol>
+
+
 
 <h2>Op-Eds & Commentary</h2>  
 <ul>  
