@@ -1,6 +1,7 @@
 # main links links
 main:
-    
-  - title: "&#8220;your sin is your lifelessness&#8221; --dylan"
+
+  - title: <i>your sin is your lifelessness --Bob Dylan</i>
     url: #
-    style: "font-style: italic; text-align: center; width: 100%;"
+    style: "text-align: center; width: 100%; font-style: italic;"
+
