@@ -16,7 +16,7 @@ redirect_from:
 <a href="https://engineering.nd.edu/faculty/jane-cleland-huang/">Professor Jane Cleland-Huang</a>,  
 <a href="https://people.engr.tamu.edu/huangrh/index.html">Professor Ruihong Huang</a>, and  
 <a href="https://ischool.umd.edu/directory/naeemul-hassan/">Professor Naeemul Hassan</a>.  
-His work, recognized at top conferences, advances technical innovation while shaping critical discussions on <strong>AI, social media, information dissemination, and human behavior</strong>.</p>
+</p>
 
 
 <h2>Latest Updates</h2>  
