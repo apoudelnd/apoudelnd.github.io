@@ -12,7 +12,7 @@ redirect_from:
 
 <p>Beyond academia, Poudel is committed to bridging digital divides. He worked in the Mississippi Delta, empowering underprivileged communities through data science training and digital workforce development. His research and advocacy continue to focus on ensuring equitable access to knowledge and opportunity in the digital age.</p>  
 
-<p>In the early stages of his research career, Poudel is pursuing a PhD under <a href="https://engineering.nd.edu/faculty/tim-weninger/">Professor Tim Weninger</a> at <a href="https://www.nd.edu">University of Notre Dame</a>, guided by his previous advisors:  
+<p>Poudel is pursuing a PhD under <a href="https://engineering.nd.edu/faculty/tim-weninger/">Professor Tim Weninger</a> at <a href="https://www.nd.edu">University of Notre Dame</a> His previous advisors include:  
 <a href="https://engineering.nd.edu/faculty/jane-cleland-huang/">Professor Jane Cleland-Huang</a>,  
 <a href="https://people.engr.tamu.edu/huangrh/index.html">Professor Ruihong Huang</a>, and  
 <a href="https://ischool.umd.edu/directory/naeemul-hassan/">Professor Naeemul Hassan</a>.  
