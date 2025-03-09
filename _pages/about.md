@@ -8,11 +8,9 @@ redirect_from:
 ---
 
 🙏 ☘️☘️
-<p><strong>Amrit Poudel</strong> is a researcher and an enthusiast who dabbles around the intersection of Large Language Models (LLMs), social media, search engines, NLP, bias, and information retrieval. His work ensures that AI-driven technologies remain transparent, accountable, and socially responsible while addressing their broader societal impact.</p>
+<p><strong>Amrit Poudel</strong> is a researcher exploring the intersection of AI, language models, and information systems, with a focus on transparency, bias, and social impact. His work focuses on making AI technologies transparent, accountable, and socially responsible.  
 
-<p>Beyond academia, Poudel is committed to bridging digital divides. He worked in the Mississippi Delta, empowering underprivileged communities through data science training and digital workforce development. His research and advocacy continue to focus on ensuring equitable access to knowledge and opportunity in the digital age.</p>  
-
-<p>Poudel is pursuing a PhD under <a href="https://engineering.nd.edu/faculty/tim-weninger/">Professor Tim Weninger</a> at <a href="https://www.nd.edu">University of Notre Dame</a> His previous advisors include:  
+Beyond academia, he has worked to bridge digital divides, including empowering underprivileged communities in the Mississippi Delta through data science training. He is pursuing a PhD at the University of Notre Dame under <a href="https://engineering.nd.edu/faculty/tim-weninger/">Professor Tim Weninger</a> at <a href="https://www.nd.edu">University of Notre Dame</a> with previous mentorship from 
 <a href="https://engineering.nd.edu/faculty/jane-cleland-huang/">Professor Jane Cleland-Huang</a>,  
 <a href="https://people.engr.tamu.edu/huangrh/index.html">Professor Ruihong Huang</a>, and  
 <a href="https://ischool.umd.edu/directory/naeemul-hassan/">Professor Naeemul Hassan</a>.  
