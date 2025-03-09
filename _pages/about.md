@@ -17,6 +17,7 @@ Beyond academia, he has worked to bridge digital divides, including empowering u
 
 <h2>Latest Updates</h2>  
 <ul>  
+  <li><strong>03.03.2025</strong> | Joined Amazon Inc. as an Applied Scientist Intern.
   <li><strong>12.09.2024</strong> | Our paper <em>"Citation and Trust in LLM-Generated Responses"</em> has been accepted at <a href="https://aaai.org/aaai-conference/">AAAI 2025</a>. 🎉</li>  
   <li><strong>11.12 - 11.16.2024</strong> | Attended <a href="https://2024.emnlp.org/">Empirical Methods in Natural Language Processing (EMNLP) 2024</a>, Miami, Florida. 🌴</li>  
   <li><strong>09.05 - 09.08.2024</strong> | Presented our work <em>"Approval and Legacy"</em> at the <a href="https://www.apsanet.org/annualmeeting">American Political Science Association (APSA)</a> Conference, Philadelphia, PA. 🔔</li>  
