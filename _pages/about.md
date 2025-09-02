@@ -16,10 +16,12 @@ Beyond academia, he has worked to bridge digital divides, including empowering u
 
 
 <h2>Latest Updates</h2>  
-<ul>  
+<ul>
+  <li>08.25.2025</strong> | Joined Amazon Inc. as an Applied Scientist, Seattle, WA</li>
+  <li><strong>08.20.2025</strong> | Our paper <em>"The Power of Framing: How News Headlines Guide Search Behavior"</em> has been accepted to <a href="https://2025.emnlp.org">EMNLP 2025 </a>. 🎉</li>
   <li><strong>07.15.2025</strong> | Our paper <em>"Social and Political Framing in Search Engine Results"</em> has been accepted to <a href="https://www.icwsm.org/2025/submit/index.html">ICWSM 2026 </a>. 🎉</li>
   <li><strong>06.02.2025</strong> | Joined JPMorgan Chase & Co. as an AI and Data Science Summer Associate. New York, NY</li>
-  <li><strong>05.15.2025</strong> | Our paper <em>"Digital Gatekeepers: Google’s Role in Curating Hashtags and Subreddits"</em> has been accepted to <a href="https://2025.aclweb.org/program/main_papers/">ACL 2025 (Main)</a>. 🎉</li>
+  <li><strong>05.15.2025</strong> | Our paper <em>"Digital Gatekeepers: Google’s Role in Curating Hashtags and Subreddits"</em> has been accepted to <a href="https://2025.aclweb.org/program/main_papers/">ACL 2025 </a>. 🎉</li>
   <li><strong>03.03.2025</strong> | Joined Amazon Inc. as an Applied Scientist Intern. San Diego, CA</li>
   <li><strong>12.09.2024</strong> | Our paper <em>"Citation and Trust in LLM-Generated Responses"</em> has been accepted at <a href="https://aaai.org/aaai-conference/">AAAI 2025</a>. 🎉</li>  
   <li><strong>11.12 - 11.16.2024</strong> | Attended <a href="https://2024.emnlp.org/">Empirical Methods in Natural Language Processing (EMNLP) 2024</a>, Miami, Florida. 🌴</li>  
