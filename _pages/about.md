@@ -17,7 +17,7 @@ Beyond academia, he has worked to bridge digital divides, including empowering u
 
 <h2>Latest Updates</h2>  
 <ul>
-  <li>08.25.2025</strong> | Joined Amazon Inc. as an Applied Scientist, Seattle, WA</li>
+  <li><strong>08.25.2025</strong> | Joined Amazon Inc. as an Applied Scientist, Seattle, WA</li>
   <li><strong>08.20.2025</strong> | Our paper <em>"The Power of Framing: How News Headlines Guide Search Behavior"</em> has been accepted to <a href="https://2025.emnlp.org">EMNLP 2025 </a>. 🎉</li>
   <li><strong>07.15.2025</strong> | Our paper <em>"Social and Political Framing in Search Engine Results"</em> has been accepted to <a href="https://www.icwsm.org/2025/submit/index.html">ICWSM 2026 </a>. 🎉</li>
   <li><strong>06.02.2025</strong> | Joined JPMorgan Chase & Co. as an AI and Data Science Summer Associate. New York, NY</li>
